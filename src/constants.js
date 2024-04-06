@@ -2,15 +2,10 @@ export const jsQuizz = {
     questions: [
       {
         question:
-          "Which of the following is used in React.js to increase performance?",
-        choices: [
-          "Virtual DOM",
-          "Original DOM",
-          "Both A and B",
-          "None of the above",
-        ],
-        type: "MCQs",
-        correctAnswer: "Virtual DOM",
+          "__________ provides a way to pass data from one component to another, fill in the gap",
+      
+        type: "FIB",
+        correctAnswer: "props",
       },
       {
         question: "What is ReactJS?",
